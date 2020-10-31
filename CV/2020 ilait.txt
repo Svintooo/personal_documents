@@ -1,0 +1,53 @@
+# CV
+
+Hugo Ankarloo
+Tel: 073-674 29 55
+Email: hugo@ankarloo.se
+
+# Arbetslivserfarenhet
+2011-07 -> 2020-nu: ilait AB (grossist av tjänster inom web-hosting)
+					IT allt-i-allo (support, utveckling, server-underhåll)
+                    Började i ren telefon- och email-support.
+                    Gick vidare till att utveckla nya tjänster samt hantera underhåll av befintliga system.
+                    Har följt med företaget genom en flytt tiĺl nya lokaler, samt till blivit övertagen av företaget Miss Group sommaren 2020.
+2011-06 -> 2011-07: Lågbetalt programmerarjobb hos en start-up på Hisingen, Göteborg.
+                    Hjäpte till att utveckla en kommande stor platform för webbhandel.
+                    Slutade efter en månad då lönen visade sig vara för låg.
+2010-01 -> 2011-06: Oderland Webbhotell AB
+                    Kund-support
+                    Arbetet bestog främst av kundsupport för tjänster såsom hemsidor och email.
+                    Hjälpte även till med underhåll av servrar, samt delat jour-ansvar (vid oväntade problem utanför arbetstid).
+                    När tid fanns tillgänglig utvecklade jag nya tjänster till företaget.
+
+# utbildning
+2017-04 -> 2018-04: Japanska Språkkurs, Sapporo, Japan
+2004-08 -> 2009-10: IT-programmet, Chalmers Tekniska Högskola
+2001-08 -> 2004-06: IT Data (modifierat naturprogram), Hulebäck Gymnasium, Mölnlycke
+
+# språkkunskaper
+Svenska: Modersmål.
+Engelska: mycket goda kunskaper i tal och skrift.
+Japanska: Grundläggande kunskaper. Kan föra enklare samtal och läsa simpla texter.
+
+# IT-kunskaper
+Stort programmeringsintresse
+- Web: Ruby on Rails, PHP, Javascript
+- Skript: Bash, Ruby, Python
+- Kompilerat: Rust, C, C++
+- Version Control: git, Pijul, SVN, CVS 
+
+Jobbat som allt-i-allo inom webbhosting
+- Stor erfarenhet av domänregistrering: varit huvudansvarig för koden som faktiskt registrerar domäner på internet (EPP-klient)
+- Sor erfarenhet av DNS-hantering, Email-hosting, felsökning av hemsidor (Apache/nginx), databaser, MySQL/MariaDB
+- Övergripande erfarenhet av att jobba i serverhallar, installera hårdvara
+- Grundläggande erfarenhet av att administrera nätverk, administrera smarta switchar
+
+# övriga meriter
+Min chef på ilait har berömt mig för min omtänksamhet till mina arbetskamrater.
+
+# intressen
+Stort intresse i programmering, datorer, och IT i allmänhet.
+Har testat på fallskärmshoppning samt några kampsporter då jag gilalr adrenalinkicken, men inte riktigt hittat något som jag fastnat för.
+
+# referenser
+Ref: Michael Abrahamsson, min chef på ilait AB, 070 - 789 49 00
