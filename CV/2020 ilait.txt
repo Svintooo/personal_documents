@@ -7,27 +7,27 @@ Email: hugo@ankarloo.se
 # Arbetslivserfarenhet
 2011-07 -> 2020-nu: ilait AB, Kungälv
                     Systemutvecklare, drifttekniker, supporttekniker
-		    Företaget jobbar med cloudtjänster, och driver ett eget datacenter.
+                    Företaget jobbar med cloudtjänster, och driver ett eget datacenter.
                     Jag började i ren telefon- och email-support, och gick vidare till att utveckla nya tjänster samt hantera underhåll av befintliga system.
-		    Hade regelbundet jour-ansvar (SMS-larm från övervakning, jourtelefon för kunder).
- 		    Utveklade på egen hand och ansvarade för företagets domäntjänst, för registrering av domännamn på internet, vilket var i full drift i 4 år.
-		    Lärde mig framförallt se mina styrkor och svagheter, samt mognade mycket som människa.
+                    Hade regelbundet jour-ansvar (SMS-larm från övervakning, jourtelefon för kunder).
+                    Utveklade på egen hand och ansvarade för företagets domäntjänst, för registrering av domännamn på internet, vilket var i full drift i 4 år.
+                    Lärde mig framförallt se mina styrkor och svagheter, samt mognade mycket som människa.
                     Ruby on Rails, Ruby, QEMU (virtuella servrar), MariaDB, EPP, Linux
 
 2011-06 -> 2011-07: En start-up, Göteborg
                     Hjäpte till att utveckla en kommande platform för webbhandel.
                     Slutade efter en månad då lönen visade sig vara för låg.
-		    Lärde mig jobba med folk från olika etniciteter. Alla samtal var på engelska.
-		    PHP, gettext, Apache, MySQL
+                    Lärde mig jobba med folk från olika etniciteter. Alla samtal var på engelska.
+                    PHP, gettext, Apache, MySQL
 
 2010-01 -> 2011-06: Oderland Webbhotell AB, Kungsbacka
                     Supporttekniker
                     Arbetet bestod främst av kundsupport (via telefon och email) för tjänster såsom hemsidor och emailkonton.
                     Hjälpte även till med underhåll av servrar, samt hade regelbundet jour-ansvar (SMS-larm från övervakning, jourtelefon för kunder).
                     När tid fanns tillgänglig utvecklade jag nya tjänster till företaget.
-		    Skapade ett system för att kontrollera alla webservrar från ett enda webbinterface, vilket fortsatte användas en tid efter att jag slutat.
-		    Lärde mig hur man hanterar kundkontakt, samt administrera Linux-servrar i drift.
-		    Bash, PHP, Linux, Apache, MySQL, cPanel, DNS
+                    Skapade ett system för att kontrollera alla webservrar från ett enda webbinterface, vilket fortsatte användas en tid efter att jag slutat.
+                    Lärde mig hur man hanterar kundkontakt, samt administrera Linux-servrar i drift.
+                    Bash, PHP, Linux, Apache, MySQL, cPanel, DNS
 
 # Utbildning
 2017-04 -> 2018-04: Japanska Språkkurs, Sapporo, Japan
