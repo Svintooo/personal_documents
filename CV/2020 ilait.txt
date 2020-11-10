@@ -5,24 +5,33 @@ Tel: 073-674 29 55
 Email: hugo@ankarloo.se
 
 # Arbetslivserfarenhet
-2011-07 -> 2020-nu: ilait AB (grossist av tjänster inom web-hosting)
-					IT allt-i-allo (support, utveckling, server-underhåll)
-                    Började i ren telefon- och email-support.
-                    Gick vidare till att utveckla nya tjänster samt hantera underhåll av befintliga system.
-                    Har följt med företaget genom en flytt tiĺl nya lokaler, samt till blivit övertagen av företaget Miss Group sommaren 2020.
-2011-06 -> 2011-07: Lågbetalt programmerarjobb hos en start-up på Hisingen, Göteborg.
-                    Hjäpte till att utveckla en kommande stor platform för webbhandel.
-                    Slutade efter en månad då lönen visade sig vara för låg.
-2010-01 -> 2011-06: Oderland Webbhotell AB
-                    Kund-support
-                    Arbetet bestog främst av kundsupport för tjänster såsom hemsidor och email.
-                    Hjälpte även till med underhåll av servrar, samt delat jour-ansvar (vid oväntade problem utanför arbetstid).
-                    När tid fanns tillgänglig utvecklade jag nya tjänster till företaget.
+2011-07 -> 2020-nu: ilait AB, Kungälv
+                    Systemutvecklare, drifttekniker, supporttekniker
+		    Företaget jobbar med cloudtjänster, och driver ett eget datacenter.
+                    Jag började i ren telefon- och email-support, och gick vidare till att utveckla nya tjänster samt hantera underhåll av befintliga system.
+		    Hade regelbundet jour-ansvar (SMS-larm från övervakning, jourtelefon för kunder).
+ 		    Utveklade på egen hand och ansvarade för företagets domäntjänst, för registrering av domännamn på internet, vilket var i full drift i 4 år.
+		    Lärde mig framförallt se mina styrkor och svagheter, samt mognade mycket som människa.
+                    Ruby on Rails, Ruby, QEMU (virtuella servrar), MariaDB, EPP, Linux
 
-# utbildning
+2011-06 -> 2011-07: En start-up, Göteborg
+                    Hjäpte till att utveckla en kommande platform för webbhandel.
+                    Slutade efter en månad då lönen visade sig vara för låg.
+		    Lärde mig jobba med folk från olika etniciteter. Alla samtal var på engelska.
+		    PHP, gettext, Apache, MySQL
+
+2010-01 -> 2011-06: Oderland Webbhotell AB, Kungsbacka
+                    Supporttekniker
+                    Arbetet bestod främst av kundsupport (via telefon och email) för tjänster såsom hemsidor och emailkonton.
+                    Hjälpte även till med underhåll av servrar, samt hade regelbundet jour-ansvar (SMS-larm från övervakning, jourtelefon för kunder).
+                    När tid fanns tillgänglig utvecklade jag nya tjänster till företaget.
+		    Skapade ett system för att kontrollera alla webservrar från ett enda webbinterface, vilket fortsatte användas en tid efter att jag slutat.
+		    Lärde mig hur man hanterar kundkontakt, samt administrera Linux-servrar i drift.
+		    Bash, PHP, Linux, Apache, MySQL, cPanel, DNS
+
+# Utbildning
 2017-04 -> 2018-04: Japanska Språkkurs, Sapporo, Japan
 2004-08 -> 2009-10: IT-programmet, Chalmers Tekniska Högskola
-2001-08 -> 2004-06: IT Data (modifierat naturprogram), Hulebäck Gymnasium, Mölnlycke
 
 # språkkunskaper
 Svenska: Modersmål.
@@ -34,11 +43,11 @@ Stort programmeringsintresse
 - Web: Ruby on Rails, PHP, Javascript
 - Skript: Bash, Ruby, Python
 - Kompilerat: Rust, C, C++
-- Version Control: git, Pijul, SVN, CVS 
+- Version Control: git, SVN, CVS 
 
 Jobbat som allt-i-allo inom webbhosting
-- Stor erfarenhet av domänregistrering: varit huvudansvarig för koden som faktiskt registrerar domäner på internet (EPP-klient)
-- Sor erfarenhet av DNS-hantering, Email-hosting, felsökning av hemsidor (Apache/nginx), databaser, MySQL/MariaDB
+- Stor erfarenhet av domänregistrering: varit huvudansvarig för koden som faktiskt registrerar domäner på internet
+- Stor erfarenhet av DNS-hantering, Email-hosting, felsökning av hemsidor (Apache/nginx), databaser, MySQL/MariaDB
 - Övergripande erfarenhet av att jobba i serverhallar, installera hårdvara
 - Grundläggande erfarenhet av att administrera nätverk, administrera smarta switchar
 
@@ -47,7 +56,7 @@ Min chef på ilait har berömt mig för min omtänksamhet till mina arbetskamrat
 
 # intressen
 Stort intresse i programmering, datorer, och IT i allmänhet.
-Har testat på fallskärmshoppning samt några kampsporter då jag gilalr adrenalinkicken, men inte riktigt hittat något som jag fastnat för.
+Har testat på fallskärmshoppning samt några kampsporter då jag gillar adrenalin-kicken, men inte riktigt hittat något som jag fastnat för.
 
 # referenser
-Ref: Michael Abrahamsson, min chef på ilait AB, 070 - 789 49 00
+Michael Abrahamsson, min chef på ilait AB, 070 - 789 49 00
