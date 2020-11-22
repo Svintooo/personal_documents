@@ -4,53 +4,14 @@ Hugo Ankarloo
 Tel: 073-674 29 55
 Email: hugo@ankarloo.se
 
-<introtext>
-Hej hopp i det blå. Här kommer Hugo 2.
-Supraprogrammeraren fenomenal! Och snillrik när allt kommer på tal.
-Ser arbetskamrat som sin vän. Humör på topp nar han kommer iklämm.
-Gunde Svan kan ta en banan. För här kommer Hugo, stolt som en pelikan.
-Rövare går intet för, Hugo är nämligen en noggrann marodör.
-Kompetens men med vissa klavér, men det goda humör man alltid ser.
-För långt gånget, strävar erfarenheter fler. Söker nu äventyr, rimmar inget mer.
 
-God man, humör på topp.
-Älskar människor, och min snopp.
+Jag är en väldigt datorintresserad person och har stort intresse i öppen mjukvara. Har mina rötter på Chalmers.
+Jag har ett väldigt brinnande intresse för programmering. I arbetsrelaterade projekt söker jag mig gärna till programmatiska lösningar, och jag har en del personliga projekt jag jobbar på. Just nu lär jag mig programmeringsspråket Rust genom att skapa ett enkelt spel.
+En av mina största styrkor är att jag är väldigt plikttrogen. Har jag gett mig in i en uppgift så kommer jag att slutföra den, även om min fritid och sömn får lida.
+Jag har även i mina arbeten fått hantera kontakten flertalet gånger med kunder, andra företag, advokater, samt ekonomiavdelningar (via telefon och email). Jag känner mig bekväm i att talföra mig i dessa situationer och vet hur jag bäst undviker och hanterar missförstånd, både i Svenska och Engelska.
+Förutom datorer har jag ett väldigt stort intresse i Japansk kultur. Detta fick mig att spendera 1 år på en språkkurs i Hokkaido, Japan.
+Jag är även föreningsaktiv i en japansk intresseförening, vilket jag tillsammans med arrangerar aktiviteter för allmänheten i olika delar av Sverige 2-4 gånger varje år (http://www.touhou.se/index.php/kontakta-oss).
 
-Scharlakansfeber har jag aldrig haft.
-Inte du heller. Sopa bort med en kvast.
-
-Flyger fram med dundrande brak. Jag vill programmera under ditt tak.
-
-Jag har jobbat i 10 år med att drifta system som håller hemsidor online på internet, men har alltid haft ett sug för ett arbete med mer programmering.
-Jag är en hyvens kille i mina bästa år som nu letar mig ut till nya spännande delar av arbetsvärlden.
-
-
-
-Hur vill jag presentera mig? Vad vil jag lyfta fram om mig?
-- glad och framåt
-- nyfiken
-- programmering
-- teknikintresserad
-- tycker om prydlighet och noggrannhet. Dokumenterar väl.
-- Läste på Chalmers.
-- Jobbat i 10 år.
-- Massa driftande i sammanhang av cloud, email, hemsidor, domäner, DNS
-- Vill fokusera på programmering.
-
-
-Jag är en väldigt datorintreserad person. Har stort intresse om öppen mjukvara och framförallt alternativa operativsystem?
-En av mina största styrkor är att jag är otroligt plikttrogen. har jag gett mig in på at göra en uppgift så kommer jag att slutföra den, även om klockan är 3 på natten.
-Mina stora intressen är, förutom datorer, TV-spel och Japansk kultur. För att utvidga mitt intresse i japanska kulturen så gick jag 1 år språkkurs i Hokkaido, Japan.
-Jag är involverad i kompetetiv tävlingsspel inom inom spelet Touhou, där jag även är föreningsaktiv.
-Vi i Touhou åker till många sammanställningar i sverige, och aktivt söker nya medlemmar.
-Jag har ett väldigt brinnande intresse för programmering, där ajg har ett par personliga projekt som jag jobbar på. Bland dessa så arbetar jag på att lära mig språket Rust genom att skriva ett spel.
-# Fyll i med saker jag gjort i python för dag-mailmigreringen
-# kolla igenom contributions jag gett i github
-jag har jobbat här, och då lärde jag mig det här. jag har jobbat här, och då lärde jag mig det här.
-Jag är en driven ingenjör med mina rötter på Chalmers.
-
-
-</introtext>
 
 # Arbetslivserfarenhet
 2011-07 -> 2020-nu: ilait AB, Kungälv
@@ -83,7 +44,7 @@ Jag är en driven ingenjör med mina rötter på Chalmers.
 
 # språkkunskaper
 Svenska: Modersmål.
-Engelska: mycket goda kunskaper i tal och skrift.
+Engelska: Mycket goda kunskaper i tal och skrift.
 Japanska: Grundläggande kunskaper. Kan föra enklare samtal och läsa simpla texter.
 
 # IT-kunskaper
@@ -91,13 +52,13 @@ Stort programmeringsintresse
 - Web: Ruby on Rails, PHP, Javascript
 - Skript: Bash, Ruby, Python
 - Kompilerat: Rust, C, C++
-- Version Control: git, SVN, CVS 
+- Version Control: git, SVN
 
 Jobbat som allt-i-allo inom webbhosting
-- Stor erfarenhet av domänregistrering: varit huvudansvarig för koden som faktiskt registrerar domäner på internet
-- Stor erfarenhet av DNS-hantering, Email-hosting, felsökning av hemsidor (Apache/nginx), databaser, MySQL/MariaDB
-- Övergripande erfarenhet av att jobba i serverhallar, installera hårdvara
-- Grundläggande erfarenhet av att administrera nätverk, administrera smarta switchar
+- Stor erfarenhet av domänregistrering: varit huvudansvarig över system som registrerar domäner på Internet.
+- Stor erfarenhet av DNS-hantering, Email-hosting, felsökning av hemsidor (Apache/nginx), databaser, MySQL/MariaDB.
+- Övergripande erfarenhet av att jobba i serverhallar, installera hårdvara.
+- Grundläggande erfarenhet av att administrera nätverk, administrera smarta switchar.
 
 # övriga meriter
 Min chef på ilait har berömt mig för min omtänksamhet till mina arbetskamrater.
