@@ -1,45 +1,79 @@
 # CV
 
 Hugo Ankarloo
+Systemutvecklare
+
 Tel: 073-674 29 55
 Email: hugo@ankarloo.se
 
 
+# Nyckelord
+Rust, C++, Serverhall, Linux, Virtualisering
+
+
+# Verktyg och System
+- Utvecklingsmiljöer: VS Code, Sublime Text, Vim
+- Programmeringsspråk: Rust, C++, Ruby, Python, Bash, JavaScript
+- Virtualiseringsplattform: QEMU
+- Systemgränssnitt: cPanel, pfSense, Proxmox, Ahsay Backup
+
+
+# Om mig
 Jag är en väldigt datorintresserad person och har stort intresse i öppen mjukvara. Har mina rötter på Chalmers.
 Jag har ett väldigt brinnande intresse för programmering. I arbetsrelaterade projekt söker jag mig gärna till programmatiska lösningar, och jag har en del personliga projekt jag jobbar på. Just nu lär jag mig programmeringsspråket Rust genom att skapa ett enkelt spel.
-En av mina största styrkor är att jag är väldigt plikttrogen. Har jag gett mig in i en uppgift så kommer jag att slutföra den, även om min fritid och sömn får lida.
+En av mina största styrkor är att jag är väldigt plikttrogen. Har jag gett mig in i en uppgift så kommer jag att slutföra den, även om min fritid och sömn fått lida till följd.
 Jag har även i mina arbeten fått hantera kontakten flertalet gånger med kunder, andra företag, advokater, samt ekonomiavdelningar (via telefon och email). Jag känner mig bekväm i att talföra mig i dessa situationer och vet hur jag bäst undviker och hanterar missförstånd, både i Svenska och Engelska.
-Förutom datorer har jag ett väldigt stort intresse i Japansk kultur. Detta fick mig att spendera 1 år på en språkkurs i Hokkaido, Japan.
-Jag är även föreningsaktiv i en japansk intresseförening, vilket jag tillsammans med arrangerar aktiviteter för allmänheten i olika delar av Sverige 2-4 gånger varje år (http://www.touhou.se/index.php/kontakta-oss).
+Förutom datorer har jag ett väldigt stort intresse i Japansk kultur. Detta fick mig att spendera 1 år på en språkkurs i Sapporo, Japan.
+Jag är även föreningsaktiv i en japansk intresseförening, vilket jag tillsammans med arrangerar aktiviteter för allmänheten i olika delar av Sverige 2-4 gånger per år (http://www.touhou.se/index.php/kontakta-oss).
+
+
+# Intressen
+16 Programmering
+ 8 Japansk Kultur
+ 4 Adrenalingivande äventyr
+ 2 Människor och Relationer
+ 1 Litteratur
 
 
 # Arbetslivserfarenhet
 2011-07 -> 2020-nu: ilait AB, Kungälv
                     Systemutvecklare, drifttekniker, supporttekniker
-                    Företaget jobbar med cloudtjänster, och driver ett eget datacenter.
+                    -
+                    Företaget jobbar med cloudtjänster, och driver ett eget datacenter Kungälv.
                     Jag började i ren telefon- och email-support, och gick vidare till att utveckla nya tjänster samt hantera underhåll av befintliga system.
                     Har regelbundet jour-ansvar (SMS-larm från övervakning, jourtelefon för kunder).
-                    Utveklade på egen hand och ansvarade för företagets domäntjänst, för registrering av domännamn på internet, vilket var i full drift i 4 år.
+                    Utvecklade på egen hand och ansvarade för företagets domännamnstjänst, för registrering av domännamn på internet, vilket var i full drift i 4 år.
                     Lärt mig framförallt se mina styrkor och svagheter, samt mognade mycket som människa.
-                    Ruby on Rails, Ruby, QEMU (virtuella servrar), MariaDB, EPP, Linux
+                    -
+                    Ansvar:
+                    * 
+                    -
+                    Verktyg och System:
+                      Ruby on Rails, QEMU, MariaDB, Apache, EPP (Extensible Provisioning Protocol), Postfix, Dovecot
 
 2011-06 -> 2011-07: En start-up, Göteborg
+                    -
                     Hjäpte till att utveckla en kommande platform för webbhandel.
                     Slutade efter en månad då lönen visade sig vara för låg.
                     Lärde mig jobba med folk från olika etniciteter. Alla samtal var på engelska.
-                    PHP, gettext, Apache, MySQL
+                    -
+                    Verktyg och System:
+                      PHP, gettext, Apache, MySQL
 
 2010-01 -> 2011-06: Oderland Webbhotell AB, Kungsbacka
                     Supporttekniker
+                    -
                     Arbetet bestod främst av kundsupport (via telefon och email) för tjänster såsom hemsidor och emailkonton.
                     Hjälpte även till med underhåll av servrar, samt hade regelbundet jour-ansvar (SMS-larm från övervakning, jourtelefon för kunder).
                     När tid fanns tillgänglig utvecklade jag nya tjänster till företaget.
                     Skapade ett system för att kontrollera alla webservrar från ett enda webbinterface, vilket fortsatte användas en tid efter att jag slutat.
                     Lärde mig hur man hanterar kundkontakt, samt administrera Linux-servrar i drift.
-                    Bash, PHP, Linux, Apache, MySQL, cPanel, DNS
+                    -
+                    Berktyg och System:
+                      Bash, PHP, Linux, Apache, MySQL, cPanel, DNS
 
 # Utbildning
-2017-04 -> 2018-04: Japanska Språkkurs, Sapporo, Japan
+2017-04 -> 2018-04: Japansk Språkkurs, Sapporo, Japan
 2004-08 -> 2009-10: IT-programmet, Chalmers Tekniska Högskola
 
 # språkkunskaper
