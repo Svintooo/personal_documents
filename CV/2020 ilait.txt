@@ -13,7 +13,7 @@ Rust, C++, Serverhall, Linux, Virtualisering
 
 # Verktyg och System
 - Utvecklingsmiljöer: VS Code, Sublime Text, Vim
-- Programmeringsspråk: Rust, C++, Ruby, Python, Bash, JavaScript
+- Programmeringsspråk: Rust, C++, Ruby, Python, PHP, Bash, JavaScript
 - Virtualiseringsplattform: QEMU
 - Systemgränssnitt: cPanel, pfSense, Proxmox, Ahsay Backup
 
@@ -51,14 +51,16 @@ Jag är även föreningsaktiv i en japansk intresseförening, vilket jag tillsam
                     Verktyg och System:
                       Ruby on Rails, QEMU, MariaDB, Apache, EPP (Extensible Provisioning Protocol), Postfix, Dovecot
 
+
 2011-06 -> 2011-07: En start-up, Göteborg
                     -
-                    Hjäpte till att utveckla en kommande platform för webbhandel.
+                    Utvecklade en kommande platform för webbhandel.
                     Slutade efter en månad då lönen visade sig vara för låg.
                     Lärde mig jobba med folk från olika etniciteter. Alla samtal var på engelska.
                     -
                     Verktyg och System:
                       PHP, gettext, Apache, MySQL
+
 
 2010-01 -> 2011-06: Oderland Webbhotell AB, Kungsbacka
                     Supporttekniker
@@ -69,37 +71,20 @@ Jag är även föreningsaktiv i en japansk intresseförening, vilket jag tillsam
                     Skapade ett system för att kontrollera alla webservrar från ett enda webbinterface, vilket fortsatte användas en tid efter att jag slutat.
                     Lärde mig hur man hanterar kundkontakt, samt administrera Linux-servrar i drift.
                     -
-                    Berktyg och System:
+                    Verktyg och System:
                       Bash, PHP, Linux, Apache, MySQL, cPanel, DNS
+
 
 # Utbildning
 2017-04 -> 2018-04: Japansk Språkkurs, Sapporo, Japan
 2004-08 -> 2009-10: IT-programmet, Chalmers Tekniska Högskola
+
 
 # språkkunskaper
 Svenska: Modersmål.
 Engelska: Mycket goda kunskaper i tal och skrift.
 Japanska: Grundläggande kunskaper. Kan föra enklare samtal och läsa simpla texter.
 
-# IT-kunskaper
-Stort programmeringsintresse
-- Web: Ruby on Rails, PHP, Javascript
-- Skript: Bash, Ruby, Python
-- Kompilerat: Rust, C, C++
-- Version Control: git, SVN
-
-Jobbat som allt-i-allo inom webbhosting
-- Stor erfarenhet av domänregistrering: varit huvudansvarig över system som registrerar domäner på Internet.
-- Stor erfarenhet av DNS-hantering, Email-hosting, felsökning av hemsidor (Apache/nginx), databaser, MySQL/MariaDB.
-- Övergripande erfarenhet av att jobba i serverhallar, installera hårdvara.
-- Grundläggande erfarenhet av att administrera nätverk, administrera smarta switchar.
-
-# övriga meriter
-Min chef på ilait har berömt mig för min omtänksamhet till mina arbetskamrater.
-
-# intressen
-Stort intresse i programmering, datorer, och IT i allmänhet.
-Har testat på fallskärmshoppning samt några kampsporter då jag gillar adrenalin-kicken, men inte riktigt hittat något som jag fastnat för.
 
 # referenser
 Michael Abrahamsson, min chef på ilait AB, 070 - 789 49 00
