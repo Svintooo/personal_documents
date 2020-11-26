@@ -8,7 +8,7 @@ Email: hugo@ankarloo.se
 
 
 # Nyckelord
-Rust, C++, Serverhall, Linux, Virtualisering
+Rust, C++, Serverhall, Linux, Virtualisering, Webbhotell
 
 
 # Verktyg och System
@@ -87,4 +87,4 @@ Japanska: Grundläggande kunskaper. Kan föra enklare samtal och läsa simpla te
 
 
 # referenser
-Michael Abrahamsson, min chef på ilait AB, 070 - 789 49 00
+Michael Abrahamsson, min tidigare chef på ilait AB, tel: 070-789 49 00
