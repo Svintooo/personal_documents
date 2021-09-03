@@ -1,0 +1,146 @@
+Linux Install
+
+#Note: VM needs at least 2GB RAM
+
+
+## Boot archlinux image
+#
+# SSH (for Remote Install)
+systemctl start sshd
+ip -br -c a  # Get IP address
+#
+# Start installer
+archinstall  # Install: git
+
+
+## chroot
+#
+# if using systemd-boot
+bootctl  # verifiera att inga errors visas
+vim /boot/loader/entries/*  # Korrigera eventuella fel
+#
+# Verify region
+ls -CFl --color=auto /etc/localtime
+ln -sf /usr/share/zoneinfo/Europe/Stockholm /etc/localtime
+#
+# Exit chroot
+exit
+
+
+## REBOOT
+reboot
+
+
+## SSH (for Remote Install)
+sudo systemctl status sshd
+sudo systemctl enable sshd
+sudo systemctl start  sshd
+sudo systemctl status sshd
+ip -br -c a  # Get IP address
+
+
+## home
+#
+# Clone git repo
+mkdir ~/repos
+cd ~/repos
+git clone https://github.com/Svintooo/linux_misc
+cd linux_misc/
+vim .git/config  # Add gittoken (https://user:token@github...)
+git pull  # Verify that it works
+cd
+#
+# dotfiles
+ln -s repos/linux_misc/system_configuration/dotfiles .dotfiles
+ln -sf .dotfiles/.??* .
+rm -f .bash_ps1 .bashrc_ps1
+source .bashrc
+#
+# folders
+mkdir bin apps pkgbuild tmp
+
+
+## go root
+sudo cp /home/svintoo/.{profile,bashrc,bash_profile} /root/
+sudo -i
+
+
+## Pacman
+#
+# Enable
+# - colors
+# - multilib repo
+vim /etc/pacman.conf
+#
+# Sync and update
+pacman -Syu
+#
+# Add Xyne repo (https://xyne.archlinux.ca/repos/)
+vim /etc/pacman.conf  # Use: Server = ...
+pacman -Sy
+pacman -S xyne-mirrorlist
+vim /etc/pacman.conf  # Use: Include = /etc/pacman.d/xyne-mirrorlist
+pacman -Sy
+#
+# More repos (https://wiki.archlinux.org/title/Unofficial_user_repositories)
+# - sublime-text
+# For each repo:
+pacman-key --recv-keys <keyid>
+pacman-key --lsign-key <keyid>
+
+
+## Packages
+pacman -S archlinux-keyring  # To make sure all keys are up-to-date
+pacman -S exa vim colordiff hwinfo lynx p7zip ripgrep rtorrent smbclient sshfs
+pacman -S git unrar unzip sshpass wget bat dos2unix dosfstools rsync
+pacman -S bind           # dig
+pacman -S edk2-ovmf      # UEFI support for virt-manager
+pacman -S spice-vdagent  # if running in vm
+pacman -S firefox
+pacman -S sublime-text sublime-merge
+#
+# KDE
+pacman -S kde-applications-meta  # lots of apps
+pacman -S packagekit-qt5         # needed backend for software center
+pacman -S openssh-askpass        # plasma-like password dialog (not tested)
+
+
+## Locales
+#
+# Enable
+# - en_US.UTF-8 UTF-8
+# - sv_SE.UTF-8 UTF-8
+# - ja_JP.UTF-8 UTF-8
+# - ja_JP.EUC-JP EUC-JP
+# - en_DK.UTF-8 UTF-8
+vim /etc/locale.gen
+locale-gen
+#
+# Add locale-en_xx
+pacman -S locale-en_xx
+#
+# Add locale-en_se
+cd ~/repos/linux_misc/system_configuration/pkgs/locale-en_se/
+makepkg --clean --cleanbuild
+pacman -U ./locale-en_se-*.pkg.tar.zst
+rm -- ./locale-en_se-*.pkg.tar.zst
+cd -
+#
+# Settings
+#   LANG=en_SE.UTF-8  # This makes datetime display correctly in sddm
+#   LC_COLLATE=C
+vim /etc/locale.conf
+
+
+## Mount file server
+#TODO: login without root
+mount -t cifs //192.168.88.252/neuer /mnt/neuer -o username=root,iocharset=utf8,uid=svintoo,gid=svintoo
+
+
+## back to user
+exit
+
+
+## Sync apps state
+# firefox
+# qbittorrent
